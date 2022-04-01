@@ -1,0 +1,161 @@
+.center{
+    margin: 30 auto 0 auto;
+    text-align: center;
+
+}
+body{
+    background-image:url('https://gifimages.us/wp-content/uploads/2021/07/Light-Blue-Background-102.jpg');
+    margin: 0;
+
+}
+hr{
+    border-style:dotted none none none;
+    border-color: rgba(113, 155, 165, 0.857);
+    border-width: 5px;
+    width:15%;
+
+}
+.hr1{border-style:dotted none none none;
+    border-color: rgba(113, 155, 165, 0.857);
+    border-width: 5px;
+    width:7%;
+
+}
+.img2{
+    height:200px;
+    width:300px;
+    float: left;
+    margin-right:30px;
+    margin-left:28%;
+
+}
+.img1{
+    position:absolute;
+    left:45%;
+
+}
+.img3{ height:200px;
+    width:300px;
+    margin-right:23%;
+    float:right;
+    margin-left:30px;
+    
+}
+
+.heading{
+    color: rgba(53, 46, 46, 0.768);
+    font-size: 100px;
+    font-weight: 1000;
+    text-shadow:0px 0px 4px rgba(77, 72, 72, 0.721) ;
+}
+.fonta{
+    font-family: Great Vibes ;
+    color: rgb(9, 18, 98);
+    font-size: 20px;
+}
+.fontb{
+   font-family:Merienda;
+   color: rgba(53, 46, 46, 0.768);
+   text-shadow:0px 0px 3px rgba(77, 72, 72, 0.721) ;
+}
+.fontc{
+    font-family:Playfair Display SC;
+    color: rgb(22, 12, 92);
+    font-weight: 600;
+    
+}
+.fontd{
+    font-family:Rye;
+    text-shadow:1px 1px 4px rgba(66, 64, 64, 0.557) ;
+
+}
+.fonte{
+    font-family: Sacramento;
+    color: rgb(9, 18, 98);
+   text-shadow:1px 1px 4px rgba(39, 90, 208, 0.82) ;
+
+
+    
+}
+
+.fontf{
+    font-family: Roboto Condensed;
+    font-size: 25px;
+    font-weight: bold;
+}
+.fontg{
+    font-family:Merriweather;
+    color: rgba(45, 43, 43, 0.657);
+    
+
+}
+
+
+label{
+    font-weight: bold;
+}
+.labela{
+    font-weight:normal;
+}
+input{
+    background-color:rgb(138, 196, 243);
+
+
+}
+textarea{
+    background-color:rgb(138, 196, 243);
+    
+
+}
+.in{
+    display: inline-block;
+
+}
+
+p{
+    
+    text-align: left;
+    line-height: 30px;
+}
+.p1{
+    margin-left: 28%;
+}
+.last{
+    background-image: url("https://image.shutterstock.com/image-photo/blue-background-vintage-marbled-textured-260nw-1675094944.jpg");
+}
+a{
+    text-decoration: none;
+}
+
+.btn {
+    background: #2142e8;
+    background-image: -webkit-linear-gradient(top, #2142e8, #163f59);
+    background-image: -moz-linear-gradient(top, #2142e8, #163f59);
+    background-image: -ms-linear-gradient(top, #2142e8, #163f59);
+    background-image: -o-linear-gradient(top, #2142e8, #163f59);
+    background-image: linear-gradient(to bottom, #2142e8, #163f59);
+    -webkit-border-radius: 24;
+    -moz-border-radius: 24;
+    border-radius: 24px;
+    text-shadow: 3px 2px 2px #4a474a;
+    -webkit-box-shadow: 2px 2px 5px #46b1e3;
+    -moz-box-shadow: 2px 2px 5px #46b1e3;
+    box-shadow: 2px 2px 5px #46b1e3;
+    font-family: Arial;
+    color: #f7f2f7;
+    font-size: 20px;
+    padding: 12px 20px 12px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #0fd7ff;
+    background-image: -webkit-linear-gradient(top, #0fd7ff, #212a8a);
+    background-image: -moz-linear-gradient(top, #0fd7ff, #212a8a);
+    background-image: -ms-linear-gradient(top, #0fd7ff, #212a8a);
+    background-image: -o-linear-gradient(top, #0fd7ff, #212a8a);
+    background-image: linear-gradient(to bottom, #0fd7ff, #212a8a);
+    text-decoration: none;
+  }
+
+
